@@ -155,11 +155,15 @@ h2{
 }
 
 .cajaUser .redesImagen{
-    width: 15%;
+    width: 100%;
     height: auto;
     box-shadow: 0px 8px 20px black;
     border-radius: 8px;
     background-color: rgb(61, 163, 146);
+}
+.cajaUser a{
+    display:inline-block;
+    
 }
 
 .cajaUser .cajaRedesSociales{
